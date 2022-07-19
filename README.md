@@ -1,4 +1,4 @@
-# IMPLEMENTACIóN DE SISTEMAS EMBEBIDOS EN LA PLACA DE DESARROLLO PYNQ MEDIANTE LA COMBINACIóN DE LENGUAJES DE PROGRAMACIóN SOFTWARE Y HARDWARE
+# Implementación de sistemas embebidos en la placa de desarrollo PYNQ mediante la combinación de lenguajes de programación software y hardware.
  
 Este repositorio contiene los archivos de programación del Trabajo de Fin de Grado, realizado por Antonio Javier Díaz Longueira, y con Esteban Jove Pérez y Álvaro Michelena Grandío como tutores.
 
